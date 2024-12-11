@@ -1,0 +1,9 @@
+......Message Model....
+
+Ankush(sender) ====> Hi Akhil
+Akhil(receiver)    ====>Hi Ankush
+
+
+senderId
+receiverId
+message=""
